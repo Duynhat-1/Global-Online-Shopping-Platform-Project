@@ -60,7 +60,7 @@ Product Analysis:
 ### Data analysis
 
 - Overview
-![image alt](https://github.com/Duynhat-1/Global-Online-Shopping-Platform-Project/blob/f3aa59864e10bffe89089be6d11d078c187a6d23/Overview.png)
+![image alt]()
 
 Office Supplies is the best-selling category (~29K units), but has a modest profit margin (~2%).Technology is the lowest-selling category (~9K units) but appears to generate a healthier net profit portion.
 
@@ -72,7 +72,7 @@ Markets: Asia Pacific and LATAM sell more units, but Europe and USCA achieve hig
 
 
 - Products 
-![image alt](https://github.com/Duynhat-1/Global-Online-Shopping-Platform-Project/blob/312e1c782fe2a4edab052ce5760b7bdffcc71459/Products.png)
+![image alt]()
 
 - Customers 
-![image alt](https://github.com/Duynhat-1/Global-Online-Shopping-Platform-Project/blob/312e1c782fe2a4edab052ce5760b7bdffcc71459/Customers.png)
+![image alt]()
