@@ -4,12 +4,12 @@
 
 ## Table of content
 - [Project overview](#project-overview)
-- [Data Sources](#data-Sources)
+- [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(EDA))
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
 - [Data analysis](#data-analysis)
-
+-------------------
 ### Project overview
 
 This project aims to analyze global online shopping data to uncover patterns in customer behavior and product performance that can support strategic decision making in international e-commerce.
@@ -29,7 +29,7 @@ Global super store: The dataset used for this analysis is the "global_superstore
 - Excel - Data Sources 
 - PowerBi - Data cleaning, Data analysis, Creating reports
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 During the initial data preparation phase, I completed the following tasks:
 
@@ -37,7 +37,7 @@ During the initial data preparation phase, I completed the following tasks:
 - Handled missing values
 - Cleaned and formatted the data
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis 
 
 EDA involved exploring data to answer key questions:
 
@@ -58,3 +58,6 @@ Product Analysis:
 - What is the average delivery time across districts?
 
 ### Data analysis
+
+- Overview
+![image alt](https://github.com/Duynhat-1/Global-Online-Shopping-Platform-Project/blob/f3aa59864e10bffe89089be6d11d078c187a6d23/Overview.png)
