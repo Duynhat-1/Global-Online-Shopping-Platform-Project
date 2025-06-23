@@ -61,3 +61,18 @@ Product Analysis:
 
 - Overview
 ![image alt](https://github.com/Duynhat-1/Global-Online-Shopping-Platform-Project/blob/f3aa59864e10bffe89089be6d11d078c187a6d23/Overview.png)
+
+Office Supplies is the best-selling category (~29K units), but has a modest profit margin (~2%).Technology is the lowest-selling category (~9K units) but appears to generate a healthier net profit portion.
+
+-> The focus on Office Supplies drives volume but not necessarily profitability. Consider strategies for the company to focus on Technology segment
+
+Standard Class is the most profitable shipping mode — should maintain or even promote this mode further.
+
+Markets: Asia Pacific and LATAM sell more units, but Europe and USCA achieve higher profit margins (Europe ~2.8%).
+
+
+- Products 
+![image alt](https://github.com/Duynhat-1/Global-Online-Shopping-Platform-Project/blob/312e1c782fe2a4edab052ce5760b7bdffcc71459/Products.png)
+
+- Customers 
+![image alt](https://github.com/Duynhat-1/Global-Online-Shopping-Platform-Project/blob/312e1c782fe2a4edab052ce5760b7bdffcc71459/Customers.png)
