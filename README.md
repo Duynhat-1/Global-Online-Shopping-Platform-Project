@@ -60,19 +60,8 @@ Product Analysis:
 ### Data analysis
 
 - Overview
-![image alt]()
-
-Office Supplies is the best-selling category (~29K units), but has a modest profit margin (~2%).Technology is the lowest-selling category (~9K units) but appears to generate a healthier net profit portion.
-
--> The focus on Office Supplies drives volume but not necessarily profitability. Consider strategies for the company to focus on Technology segment
-
-Standard Class is the most profitable shipping mode — should maintain or even promote this mode further.
-
-Markets: Asia Pacific and LATAM sell more units, but Europe and USCA achieve higher profit margins (Europe ~2.8%).
-
 
 - Products 
-![image alt]()
 
 - Customers 
-![image alt]()
+
